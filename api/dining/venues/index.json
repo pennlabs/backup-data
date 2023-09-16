@@ -1,0 +1,1613 @@
+[
+    {
+        "name": "1920 Commons",
+        "address": "3800 Locust Walk",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-16T09:00:00",
+                        "endtime": "2023-09-16T14:00:00",
+                        "message": "",
+                        "label": "Brunch"
+                    },
+                    {
+                        "starttime": "2023-09-16T17:00:00",
+                        "endtime": "2023-09-16T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-16T14:00:00",
+                        "endtime": "2023-09-16T16:30:00",
+                        "message": "",
+                        "label": "Light Bunch"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T09:00:00",
+                        "endtime": "2023-09-17T14:00:00",
+                        "message": "",
+                        "label": "Brunch"
+                    },
+                    {
+                        "starttime": "2023-09-17T17:00:00",
+                        "endtime": "2023-09-17T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-17T14:00:00",
+                        "endtime": "2023-09-17T16:30:00",
+                        "message": "",
+                        "label": "Light Bunch"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T07:30:00",
+                        "endtime": "2023-09-18T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T07:30:00",
+                        "endtime": "2023-09-19T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T07:30:00",
+                        "endtime": "2023-09-20T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-20T17:00:00",
+                        "endtime": "2023-09-20T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T07:30:00",
+                        "endtime": "2023-09-21T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T07:30:00",
+                        "endtime": "2023-09-22T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-22T17:00:00",
+                        "endtime": "2023-09-22T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/1920-commons.jpg",
+        "id": 593
+    },
+    {
+        "name": "Hill House",
+        "address": "3333 Walnut St.",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-16T10:00:00",
+                        "endtime": "2023-09-16T15:00:00",
+                        "message": "",
+                        "label": "Brunch"
+                    },
+                    {
+                        "starttime": "2023-09-16T17:00:00",
+                        "endtime": "2023-09-16T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-16T15:00:00",
+                        "endtime": "2023-09-16T16:30:00",
+                        "message": "",
+                        "label": "Light Brunch"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T10:00:00",
+                        "endtime": "2023-09-17T15:00:00",
+                        "message": "",
+                        "label": "Brunch"
+                    },
+                    {
+                        "starttime": "2023-09-17T17:00:00",
+                        "endtime": "2023-09-17T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-17T15:00:00",
+                        "endtime": "2023-09-17T16:30:00",
+                        "message": "",
+                        "label": "Light Brunch"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T07:30:00",
+                        "endtime": "2023-09-18T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T07:30:00",
+                        "endtime": "2023-09-19T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T07:30:00",
+                        "endtime": "2023-09-20T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-20T17:00:00",
+                        "endtime": "2023-09-20T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T07:30:00",
+                        "endtime": "2023-09-21T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T21:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T07:30:00",
+                        "endtime": "2023-09-22T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-22T17:00:00",
+                        "endtime": "2023-09-22T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/Hill+House.jpg",
+        "id": 636
+    },
+    {
+        "name": "English House",
+        "address": "3465 Sansom St.",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-20T17:00:00",
+                        "endtime": "2023-09-20T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T10:30:00",
+                        "message": "",
+                        "label": "Breakfast"
+                    },
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T16:30:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-22T17:00:00",
+                        "endtime": "2023-09-22T20:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/kceh.jpg",
+        "id": 637
+    },
+    {
+        "name": "Falk Kosher Dining",
+        "address": "215 S. 39th Street",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "closed",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "closed",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T11:30:00",
+                        "endtime": "2023-09-18T14:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-18T17:30:00",
+                        "endtime": "2023-09-18T19:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T11:30:00",
+                        "endtime": "2023-09-19T14:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-19T17:30:00",
+                        "endtime": "2023-09-19T19:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T11:30:00",
+                        "endtime": "2023-09-20T14:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-20T17:30:00",
+                        "endtime": "2023-09-20T19:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T11:30:00",
+                        "endtime": "2023-09-21T14:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-21T17:30:00",
+                        "endtime": "2023-09-21T19:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T11:30:00",
+                        "endtime": "2023-09-22T14:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-22T19:30:00",
+                        "endtime": "2023-09-22T21:30:00",
+                        "message": "Shabbat dinner at sundown.\n\nUse Penn Eats Mobile Ordering to reserve your dine-in Shabbat Dinner.",
+                        "label": "Dinner"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/hillel.jpg",
+        "id": 638
+    },
+    {
+        "name": "Houston Market",
+        "address": "3417 Spruce St.",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T11:00:00",
+                        "endtime": "2023-09-17T19:30:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-17T11:00:00",
+                        "endtime": "2023-09-17T19:30:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T19:30:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T19:30:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T19:30:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T19:30:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T19:30:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T19:30:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T19:30:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T19:30:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T17:00:00",
+                        "message": "Meal Exchange available open-close\nand excludes Bento",
+                        "label": "Houston Market"
+                    },
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T17:00:00",
+                        "message": "",
+                        "label": "The Market Café"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/houston.jpg",
+        "id": 639
+    },
+    {
+        "name": "Accenture Café",
+        "address": "220 S. 33rd St.",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Accenture"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Accenture"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Accenture"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Accenture"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Accenture"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/accenture.png",
+        "id": 641
+    },
+    {
+        "name": "Joe's Café",
+        "address": "3620 Locust Walk",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Joe"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Joe"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Joe"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T17:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Joe"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T13:30:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Joe"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/Penn.JoesCafe-Int5.72W.jpg",
+        "id": 642
+    },
+    {
+        "name": "McClelland Express",
+        "address": "3700 Spruce St.",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T20:00:00",
+                        "message": "",
+                        "label": "Sushi and Market"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T20:00:00",
+                        "message": "",
+                        "label": "Sushi and Market"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T20:00:00",
+                        "message": "",
+                        "label": "Sushi and Market"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T20:00:00",
+                        "message": "",
+                        "label": "Sushi and Market"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T19:00:00",
+                        "message": "",
+                        "label": "Sushi and Market"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/mcclelland.jpg",
+        "id": 747
+    },
+    {
+        "name": "1920 Gourmet Grocer",
+        "address": "3800 Locust Walk",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-16T11:00:00",
+                        "endtime": "2023-09-16T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-16T17:00:00",
+                        "endtime": "2023-09-16T18:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-16T11:00:00",
+                        "endtime": "2023-09-16T18:00:00",
+                        "message": "",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T11:00:00",
+                        "endtime": "2023-09-17T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-17T17:00:00",
+                        "endtime": "2023-09-17T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-17T11:00:00",
+                        "endtime": "2023-09-17T23:59:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T11:00:00",
+                        "endtime": "2023-09-18T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-18T09:00:00",
+                        "endtime": "2023-09-18T23:59:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T11:00:00",
+                        "endtime": "2023-09-19T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-19T09:00:00",
+                        "endtime": "2023-09-19T23:59:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T11:00:00",
+                        "endtime": "2023-09-20T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-20T17:00:00",
+                        "endtime": "2023-09-20T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-20T09:00:00",
+                        "endtime": "2023-09-20T23:59:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T11:00:00",
+                        "endtime": "2023-09-21T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-21T09:00:00",
+                        "endtime": "2023-09-21T23:59:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T11:00:00",
+                        "endtime": "2023-09-22T17:00:00",
+                        "message": "",
+                        "label": "Lunch"
+                    },
+                    {
+                        "starttime": "2023-09-22T17:00:00",
+                        "endtime": "2023-09-22T20:30:00",
+                        "message": "",
+                        "label": "Dinner"
+                    },
+                    {
+                        "starttime": "2023-09-22T09:00:00",
+                        "endtime": "2023-09-22T21:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Gourmet Grocer"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/gourmetgrocer.jpg",
+        "id": 1057
+    },
+    {
+        "name": "1920 Starbucks",
+        "address": "3800 Locust Walk",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-16T11:00:00",
+                        "endtime": "2023-09-16T18:00:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T11:00:00",
+                        "endtime": "2023-09-17T23:59:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T23:59:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T23:59:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T23:59:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T23:59:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T21:00:00",
+                        "message": "",
+                        "label": "Starbucks"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/starbucks.jpg",
+        "id": 1163
+    },
+    {
+        "name": "Lauder College House",
+        "address": "",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T17:00:00",
+                        "endtime": "2023-09-17T22:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T22:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T22:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T17:00:00",
+                        "endtime": "2023-09-20T22:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T22:00:00",
+                        "message": "",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "",
+                "dayparts": []
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/nch.jpg",
+        "id": 1442
+    },
+    {
+        "name": "Pret a Manger MBA",
+        "address": "",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "",
+                "dayparts": []
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/MBA+Cafe.jpg",
+        "id": 1732
+    },
+    {
+        "name": "Pret a Manger Locust Walk",
+        "address": "",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-16T08:00:00",
+                        "endtime": "2023-09-16T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-17",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-17T08:00:00",
+                        "endtime": "2023-09-17T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T20:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T20:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T20:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T20:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T16:00:00",
+                        "message": "",
+                        "label": "Pret a Manger"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/Pret+A+Manger.jpg",
+        "id": 1733
+    },
+    {
+        "name": "Quaker Kitchen",
+        "address": "1726 Locust St",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T17:00:00",
+                        "endtime": "2023-09-18T20:00:00",
+                        "message": "Walk-in 5-6pm, Reservations 6-8pm",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T17:00:00",
+                        "endtime": "2023-09-19T20:00:00",
+                        "message": "Walk-in 5-6pm, Reservations 6-8pm",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T17:00:00",
+                        "endtime": "2023-09-21T20:00:00",
+                        "message": "Walk-in 5-6pm, Reservations 6-8pm",
+                        "label": "Dinner"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T17:00:00",
+                        "endtime": "2023-09-22T20:00:00",
+                        "message": "Walk-in 5-6pm, Reservations 6-8pm",
+                        "label": "Dinner"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/quakerkitchen.jpg",
+        "id": 1464004
+    },
+    {
+        "name": "Cafe West",
+        "address": "1726 Locust St",
+        "days": [
+            {
+                "date": "2023-09-16",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-17",
+                "status": "",
+                "dayparts": []
+            },
+            {
+                "date": "2023-09-18",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-18T08:00:00",
+                        "endtime": "2023-09-18T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Cafe West"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-19",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-19T08:00:00",
+                        "endtime": "2023-09-19T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Cafe West"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-20",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-20T08:00:00",
+                        "endtime": "2023-09-20T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Cafe West"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-21",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-21T08:00:00",
+                        "endtime": "2023-09-21T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Cafe West"
+                    }
+                ]
+            },
+            {
+                "date": "2023-09-22",
+                "status": "open",
+                "dayparts": [
+                    {
+                        "starttime": "2023-09-22T08:00:00",
+                        "endtime": "2023-09-22T15:00:00",
+                        "message": "Meal Exchange available open-close",
+                        "label": "Cafe West"
+                    }
+                ]
+            }
+        ],
+        "image": "https://s3.us-east-2.amazonaws.com/labs.api/dining/cafewest.jpg",
+        "id": 1464009
+    }
+]
